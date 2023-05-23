@@ -1,6 +1,5 @@
-# tone-generator
+# soundmaker
 
 # Required Packeges
 numpy  
 pysoundfile  
-librosa  
